@@ -32,7 +32,7 @@ func main() {
 
 	for {
 		printMainMenu()
-		choice := readChoice("Elegí una opción: ")
+		choice := readChoice("Elegí una opción:  ")
 
 		switch choice {
 		case "1":
