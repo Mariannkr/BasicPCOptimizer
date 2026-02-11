@@ -1,0 +1,11 @@
+# Binarios
+*.exe
+
+# Go
+/go.sum
+/vendor/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
